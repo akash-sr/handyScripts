@@ -1,3 +1,7 @@
+"""
+Descritption: Python script to save Windows Lockscreen images to desired folder
+"""
+
 import shutil
 import os
 import sys

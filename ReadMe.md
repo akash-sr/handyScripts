@@ -1,3 +1,4 @@
 # handyScripts
 
-lockscreenSaver - to save Windows Lockscreen Images to a desired folder
+saveLockscreen 	- to save Windows Lockscreen images to a desired folder
+setupCF		- to setup files for Codeforces contests.	
